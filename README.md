@@ -98,8 +98,17 @@ Designed and built by **Koustav**.
 
 If you'd like to reach out regarding this project, report a bug, or just chat about spatial interfaces:
 
-- **GitHub:** [@Koustav](https://github.com/yourusername) 
-- **Email:** *[Add your email here]*
+<p align="left">
+  <a href="https://github.com/Kenta145" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:raykoustav145@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kenta145/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
   <sub>Built with ❤️ and cosmic dust.</sub>
